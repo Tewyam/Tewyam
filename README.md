@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tewyam
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning learning ethical hacking 
+- 🌱 I’m currently learning programing and ethical hacking 
 - 💞️ I’m looking to collaborate on varioud projects
 - 📫 How to reach me whatsapp +2191-016-0310
 <!---
